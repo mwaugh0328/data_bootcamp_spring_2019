@@ -7,3 +7,4 @@ Organized with folders according to topics. And then subfolders for "clean" and 
 - [python fundamentals one](python_fundamentals_one)
 - [python fundamentals two](python_fundamentals_one)
 - [intro to pandas](intro_to_pandas)
+- [intro to matplotlib](intro_to_matplotlib)
