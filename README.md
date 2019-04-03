@@ -9,3 +9,4 @@ Organized with folders according to topics. And then subfolders for "clean" and 
 - [intro to pandas](intro_to_pandas)
 - [intro to matplotlib](intro_to_matplotlib)
 - [cleaning data](cleaning_data)
+- [grouping data](groubing_data)
