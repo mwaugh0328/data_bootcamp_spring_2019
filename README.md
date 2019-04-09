@@ -12,6 +12,7 @@ Organized with folders according to topics. And then subfolders for "clean" and 
 - [grouping data](groubing_data)
 
 ---
-The folder below contains the code associated with our guided project.
+The folder below contains the code associated with our guided project and Mike's project.
 
 - [guided_project](guided_project)
+- [mikes project](mikes_project)
