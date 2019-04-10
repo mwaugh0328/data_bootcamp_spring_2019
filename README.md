@@ -10,6 +10,7 @@ Organized with folders according to topics. And then subfolders for "clean" and 
 - [intro to matplotlib](intro_to_matplotlib)
 - [cleaning data](cleaning_data)
 - [grouping data](groubing_data)
+- [mergeing data](merge)
 
 ---
 The folder below contains the code associated with our guided project and Mike's project.
