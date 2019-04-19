@@ -18,3 +18,8 @@ The folder below contains the code associated with our guided project and Mike's
 
 - [guided_project](guided_project)
 - [mikes project](mikes_project)
+
+---
+Other stuff and examples...
+
+- [intro_to_apis](intro_to_apis)
