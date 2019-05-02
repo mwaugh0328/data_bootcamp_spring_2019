@@ -13,7 +13,7 @@ Organized with folders according to topics. And then subfolders for "clean" and 
 - [merging data](merge)
 - [census data](census_data)
 - [time series data](time_series)
-- [mapping data](mapping_data)
+- [mapping data](mapping)
 
 ---
 The folder below contains the code associated with our guided project and Mike's project.
